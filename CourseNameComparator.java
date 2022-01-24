@@ -1,9 +1,6 @@
 import java.util.Comparator;
 
 /*
- * @Author Jinwei Zhou 
- * 114177591 CSE214 
- * recitation04
  * 
  */
 
