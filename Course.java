@@ -1,9 +1,6 @@
 import java.io.Serializable;
 
 /*
- * @Author Jinwei Zhou 
- * 114177591 CSE214 
- * recitation04
  * 
  * this class will be associated with the Students that are taking them
  * 
