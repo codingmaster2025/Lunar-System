@@ -3,9 +3,6 @@ import java.util.List;
 import java.io.*;
 /*
  * 
- * @Author Jinwei Zhou 
- * 114177591 CSE214 
- * recitation04
  * 
  * this class will serve as the stored element of the Lunar System database
  * 
