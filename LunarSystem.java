@@ -7,14 +7,11 @@ import java.util.*;
 import java.io.*;
 
 /*
- * @Author Jinwei Zhou 
- * 114177591 CSE214 
- * recitation04
  * 
  * LunarSystem will allow the user to interact with a database of Students. 
  * Provide the user with a menu-based interface that allows them to add, remove, and edit Students, as well as their courses. 
  * You will need to be able to serialize (save) the database at the end of the program and deserialize (load) the database if a file containing the database already exists. 
- * The database will have a Student’s netID as the key and the associated Student object as the value.
+ * The database will have a Studentâ€™s netID as the key and the associated Student object as the value.
  * 
  */
 
