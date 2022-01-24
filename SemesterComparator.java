@@ -1,11 +1,6 @@
 import java.util.Comparator;
 
-/*
- * @Author Jinwei Zhou 
- * 114177591 CSE214 
- * recitation04
- * 
- */
+
 
 public class SemesterComparator implements Comparator {
     public int compare(Object o1, Object o2) {
